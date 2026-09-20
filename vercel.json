@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+        {
+            "source": "/time-keeper",
+            "destination": "https://time-keeper-tau.vercel.app"
+        },
+        {
+            "source": "/time-keeper/:path*",
+            "destination": "https://time-keeper-tau.vercel.app/:path*"
+        }
+    ]
+}
