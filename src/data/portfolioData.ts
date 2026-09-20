@@ -98,7 +98,7 @@ export const projects: Project[] = [
     description: "Cronómetro web de precisión enfocado en buenas prácticas de desarrollo frontend. Implementa control de ciclo de vida con hooks para evitar fugas de memoria en intervalos temporales, tipado estricto en TypeScript y despliegue continuo en Vercel.",
     tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Vercel"],
     imageUrl: "",
-    demoUrl: "https://time-keeper-tau.vercel.app",
+    demoUrl: "https://www.rbarrios.dev/time-keeper",
     githubUrl: "https://github.com/rxbertoo/time-keeper"
   },
   {
